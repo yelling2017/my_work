@@ -1,0 +1,11 @@
+..\obj\background.o: ..\EMWIN_DEMO\ICONVIEW\background.c
+..\obj\background.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\background.o: ..\EMWIN_DEMO\ICONVIEW\background.h
+..\obj\background.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\background.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\background.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\background.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\background.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\background.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\background.o: ..\EMWIN\STemWin\inc\GUI_Version.h
+..\obj\background.o: ..\EMWIN_DEMO\ICONVIEW\background.h
